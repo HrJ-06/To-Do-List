@@ -21,6 +21,13 @@
     border-radius: 10px;
     padding-bottom: 30px;
 }
+.name-box{
+    font-size: 20px;
+    font-style: italic;
+    position: absolute;
+    top:93%;
+    margin-left: 80%;
+}
 
 .todo-name{
     display:flex;
